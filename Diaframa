@@ -1,0 +1,18 @@
+INICIO
+  │
+  ▼
+Mostrar Menú Principal
+  │
+  ├───────────────────────┐
+  │ 1. Registrar Estudiante│
+  │ 2. Ver Lista          │
+  │ 3. Buscar Estudiante  │
+  │ 4. Salir              │
+  └───────────────────────┘
+        │
+        ▼
+  ¿Opción seleccionada?
+     ├─ 1 → Pedir datos → Guardar → Volver al menú
+     ├─ 2 → Mostrar lista → Volver al menú
+     ├─ 3 → Pedir nombre → Buscar → Mostrar → Volver al menú
+     └─ 4 → Mensaje de despedida → FIN
